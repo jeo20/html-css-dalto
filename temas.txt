@@ -1,0 +1,138 @@
+TEMARIO: 
+
+00:00 - Introducción
+02:35 - Entendiendo la WEB
+13:38 - Entendiendo HTML y CSS
+26:10 - Editor de código
+
+--- HTML BÁSICO ---
+
+00:35:02 - Estructura de una etiqueta
+00:45:48 - Estructura de una página WEB
+00:51:58 - Parrafos y encabezados
+01:00:09 - Listas
+01:10:45 - Enlaces (Básico)
+01:26:09 - Imagenes y Rutas
+01:41:40 - Formularios
+
+--- CSS BÁSICO ---
+
+01:56:45 - Introducción a CSS
+02:08:24 - Selectores (Básico)
+02:18:04 - Propiedades de texto y fuente
+02:44:56 - Tipografías externas
+02:55:25 - Modelo de caja (box model)
+03:07:04 - Relleno y Margen (margin y padding)
+03:37:57 - Bordes
+03:53:43 - Tamaño de caja (box sizing)
+04:02:09 - Colores
+04:25:16 - Unidades
+04:50:29 - Fondos, Gradientes y Sombras
+05:31:15 - Ejercicio práctico
+
+--- HTML AVANZADO ---
+
+05:38:02 - Metatags, Comentarios e Iconos
+05:57:18 - Textarea y Labels
+06:24:18 - Select, Datalist y Option
+06:33:02 - Fieldset y Legend
+06:44:35 - Details y Summary
+06:51:34 - Enlaces (Avanzado)
+07:04:12 - Tablas
+07:22:25 - Audio y Video
+07:34:10 - Lazy Loading
+07:39:37 - HTML Obsoleto
+07:49:10 - HTML Semántico
+07:57:42 - Accesibilidad WEB
+
+--- CSS INTERMEDIO ---
+
+08:19:58 - Selectores (Avanzado)
+08:36:14 - Herencia, Cascada y Especificidad
+09:04:51 - Pseudoclases
+09:30:38 - Pseudoelementos
+09:37:51 - Metodología BEM
+09:49:33 - Display
+10:03:21 - Posición Relativa y Absoluta
+10:26:36 - Ventanas Modal
+10:35:20 - Posicion Fixed y Sticky
+10:43:28 - Transiciones
+10:56:53 - Desbordamiento (overflow)
+11:01:49 - Control de flujo del texto
+11:11:54 - Object fit y Object position
+11:16:34 - Contorno (outline)
+11:25:13 - Emmet (material re-usado)
+
+--- CSS FLEXBOX ---
+
+11:43:11 - Introducción a Flexbox
+11:56:29 - Flex Direction, Flex Wrap y Flex Flow
+12:17:33 - Alineación en los ejes
+12:34:59 - Order
+12:41:37 - Flex Básis, Shrink y Grow
+12:59:10 - Align Self 
+13:02:42 - Layout con Flexbox
+
+--- RESPONSIVE DESIGN ---
+
+13:35:25 - Bloques y Multimedia flexible
+13:56:07 - Atributos SRCSET y SIZES
+14:10:17 - Picture, Source y Media
+14:21:18 - Media Queries
+14:29:57 - Ejercicio "Holy Grail" con Flexbox
+14:48:36 - Mobile First
+14:55:08 - Feature Queries
+14:59:01 - Container Queries
+
+--- CSS GRID ---
+
+15:05:11 - Introducción a Grid
+15:12:50 - Creando un Grid
+15:24:54 - Unidades "auto" y "fr"
+15:34:24 - Repeat y Minmax
+15:42:18 - Grid implícito y explícito
+15:53:34 - Grid dinámico (y responsive)
+16:04:54 - Grid column y Grid row
+16:14:52 - Grid flow: Dense
+16:19:34 - Grid areas
+16:35:06 - Alineacion con grid
+16:53:28 - Subgrid
+17:02:14 - Creando una página WEB
+
+--- ANIMACIONES ---
+
+18:02:13 - Transiciones (Repaso)
+18:13:13 - Animaciones
+18:29:19 - Botones Animados y Efecto Typewriter
+18:52:42 - Animaciones basadas en Scroll
+19:07:35 - Rango de animaciones
+19:17:33 - Integrando animaciones en una WEB
+19:29:14 - Animaciones, cumpliendo la promesa
+
+--- WEB HOSTING ---
+
+19:31:07 - Introducción al WEB HOSTING
+19:57:59 - Subir tu WEB a INTERNET
+
+---- SECCIÓN AVANZADA ----
+
+20:09:16 - Filter y Backdrop Filter
+20:29:30 - Transform
+20:40:54 - Min, Max y Clamp
+20:54:26 - Variables (custom properties)
+21:05:50 - Función Calc
+21:14:58 - Propiedades del Scroll
+21:22:31 - Initial Letter
+21:27:28 - Unidades del Viewport (Large, Small y Dynámic)
+21:32:45 - Min-content, Max-content y Fit-content
+21:39:19 - Función Color Mix
+
+---- PROYECTOS FINALES ----
+
+21:49:41 - Sidebar Menu & Chatbox (proyecto 1 y 2)
+22:43:47 - Flip Card & One-Page View (proyecto 3 y 4)
+23:21:42 - Menú Acordeón (proyecto 5)
+
+---- COMO SEGUIR ---
+
+23:42:39 - Como seguir aprendiendo
